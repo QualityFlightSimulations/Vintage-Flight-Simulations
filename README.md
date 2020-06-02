@@ -1,6 +1,6 @@
 # Vintage-Flight-Simulations 767-300ER
 
-Windows/Mac/Linux
+Windows Only
 
 --------------------------------
 All Files retain to Vintage Flight Simulations and Felis Leopard.
@@ -11,3 +11,7 @@ that the author is not responsible for any potential harm they might cause
 either to you, other people, your hardware or software.
 --------------------------------
 This Aircraft contains Modified Files from Felis Leopard's 767-300.
+--------------------------------
+Any Concerns shall be communicated to Luca, luca.cederberg@gmail.com
+or in our discord Server; www.discord.gg/J3k3cRq
+
